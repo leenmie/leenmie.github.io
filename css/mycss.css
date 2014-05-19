@@ -1,0 +1,26 @@
+.myicon {
+    height: 150px;
+}
+.bottom-image {
+    height: 50px;
+    position: absolute;
+    
+}
+
+#cover {
+    margin-top: 130px;
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+    background-color: #003300 !important;
+    border-color: #FFFFFF !important;
+    
+}
+
+.dropdown-menu {
+    background-color: #003300 !important;
+}
+
+.dropdown-menu>li>a {
+    color: #FFFFFF !important;
+}
