@@ -8,7 +8,14 @@
 }
 
 #cover {
-    margin-top: 130px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+#cover textarea {
+    min-height: 100px;
+}
+#cover input[type="email"] {
+    max-width: 15em;
 }
 
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
@@ -23,4 +30,22 @@
 
 .dropdown-menu>li>a {
     color: #FFFFFF !important;
+}
+
+.panel-body > img {
+    max-width: 100%;
+}
+
+.panel {
+    text-align: left;
+    background-color: black !important;
+}
+
+.panel-body {
+    background-color: white !important;
+    color: black;
+}
+
+.form-control {
+    margin-bottom: 5px;
 }
