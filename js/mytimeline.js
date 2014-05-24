@@ -15,7 +15,7 @@ $(function() {
                 }
             };
             var today = new Date();
-            var today_string = today.getFullYear() + "," + today.getMonth() + "," + today.getDate();
+            var today_string = today.getFullYear() + "," + (today.getMonth()+1) + "," + today.getDate();
             //set the last job end date to today, in case you're still employed
             data.timeline["date"][0]["endDate"] = today_string;   
             //console.log(data);                     
