@@ -1,0 +1,101 @@
+{
+    "timeline":
+    {
+        "headline":"Professional Experience",
+        "type":"default",
+        "text":"<p>A brief review of my professional life.</p>",
+        "asset": {
+            "media":"images/cat_tom4.png",
+            "credit":"Mai Linh (aka Leen) - A lifetime programmer",
+            "caption":"Because of privacy, I am represented by Tom."
+        },
+        "date": [
+            {
+                "startDate":"2011,11,01",
+                "endDate":"2014,04,01",
+                "headline":"Foo Kon Tan Grant Thorton LLP, Singapore",
+                "text":"<p>IT Security Consultant</p>",
+                "tag":"IT Security, IT Audit",
+                "classname":"",
+                "asset": {
+                    "media":"images/logos/logo_GT.gif",
+                    "thumbnail":"images/logos/logo_GT.gif",
+                    "credit":"Consulting, Auditing",
+                    "caption":"gt.com.sg"
+                }
+            },
+            {
+                "startDate":"2011,07,01",
+                "endDate":"2011,10,30",
+                "headline":"VNG Corp., Vietnam",
+                "text":"<p>Software Engineer</p>",
+                "tag":"programming, security, python",
+                "classname":"",
+                "asset": {
+                    "media":"images/logos/logo_vng.png",
+                    "thumbnail":"images/logos/logo_vng.png",
+                    "credit":"Online Game Publisher, Digital Content",
+                    "caption":"Website: <a href=\"http://www.vng.com.vn\">vng.com.vn</a>"
+                }
+            },
+            {
+                "startDate":"2011,01,01",
+                "endDate":"2011,05,31",
+                "headline":"Galactic Mantis, Vietnam",
+                "text":"<p>Security Engineer</p>",
+                "tag":"programming, security, python, C/C++",
+                "classname":"",
+                "asset": {
+                    "media":"images/logos/GalacticMantis.jpg",
+                    "thumbnail":"images/logos/GalacticMantis.jpg",
+                    "credit":"Online Game Security, Consulting",
+                    "caption":"Closed."
+                }
+            },
+            {
+                "startDate":"2007,7,1",
+                "endDate":"2010,12,31",
+                "headline":"FPT Online JSC, Vietnam",
+                "text":"<p>Software Engineer, Security Engineer, Supervisor</p>",
+                "tag":"programming, security, java, python, PHP, c/c++",
+                "classname":"",
+                "asset": {
+                    "media":"images/logos/logo_fptonline.gif",
+                    "thumbnail":"images/logos/logo_fptonline.gif",
+                    "credit":"Online Game Publisher, Digital Content",
+                    "caption":"fptonline.net"
+                }
+            },
+            {
+                "startDate":"2005,11,1",
+                "endDate":"2007,06,31",
+                "headline":"FPT Telecom Corp., Vietnam",
+                "text":"<p>Software Engineer, Security Engineer</p>",
+                "tag":"programming, security, c/c++, java, linux",
+                "classname":"",
+                "asset": {
+                    "media":"images/logos/logo_fpttelecom.png",
+                    "thumbnail":"images/logos/logo_fpttelecom.png",
+                    "credit":"ISP, Online Game Publisher",
+                    "caption":"<a href=\"http://www.fpt.vn\">fpt.vn</a>"
+                }
+            }            
+        ],
+        "era": [
+            {
+                "startDate":"2011,11,01",
+                "endDate":"2014,06,01",
+                "headline":"Singapore",
+                "text":"Singapore",
+                "tag":""
+            },
+            {
+                "startDate":"2005,01,01",
+                "endDate":"2011,10,30",
+                "headline":"Vietnam",
+                "text":"Home",
+                "tag":""
+            }
+        ]
+    }
+}

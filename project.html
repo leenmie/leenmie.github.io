@@ -21,9 +21,9 @@
         <![endif]-->
     </head>
 
-    <body>
+    <body data-spy="scroll" data-target="#affix-nav">
 
-        <div class="site-wrapper">
+        <div class="site-wrapper row">
 
             <div class="site-wrapper-inner">
 
@@ -31,7 +31,12 @@
 
                     <div class="masthead clearfix">
                     </div>
-
+                    <nav id="affix-nav" class="sidebar hidden-xs hidden-sm">
+                        <ul class="nav sidenav" data-spy="affix">
+                            <li class="active"><a href="#project-pypoker">PyPoker</a></li>
+                            <li><a href="#project-bantau">BanTau</a></li>
+                        </ul>
+                    </nav>
                     <div id="cover" class="inner cover">
                         
                         <div id="project-pypoker" class="thumbnail">

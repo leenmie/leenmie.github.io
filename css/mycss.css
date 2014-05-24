@@ -49,3 +49,40 @@
 .form-control {
     margin-bottom: 5px;
 }
+
+ul.affix {
+    position: fixed;
+    margin-left: -70px;
+    
+}
+
+ul.affix-top {
+    position: static;
+}
+
+ul.affix-bottom {
+    position: absolute;
+}
+
+.affix > li.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.blacktext {
+    color: black !important;
+    font-weight: lighter !important;
+}
+
+.popover-content {
+    color: black !important;
+    
+}
+.popover-content > ul {
+    list-style-type: none;
+    padding: 0px;
+}
+.custom-tooltip {
+    font-weight: bold;
+    /*background-color:#999999;*/
+    /*border: none;*/
+}

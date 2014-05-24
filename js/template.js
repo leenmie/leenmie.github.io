@@ -7,12 +7,12 @@ $(function() {
             var our_footer = $('.mastfoot');
             our_header.html(load_header);
             our_footer.html(load_footer);
-            $('#project-dropdown').hover(function() {
+            /*$('#project-dropdown').hover(function() {
                 $(this).dropdown('toggle');
             }, function() {
             }).click(function() {
                 window.location = $(this).attr('href');
-            });
+            });*/
             $(nav_bar).addClass('active'); 
         });
    };
